@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Gokul 👋
 
-<!--
-**Gokulmanisujith/Gokulmanisujith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresher Web Developer & Data Analyst  
+Interested in building full-stack web apps and data-driven solutions.  
+Actively seeking **paid remote internships**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- Python, SQL
+- HTML, CSS, JavaScript
+- Express.js, Node.js
+- Data Analysis, ML basics
+
+---
+
+### 🚀 Projects
+- **Expense Tracker Web App**  
+  Live app to track expenses with analytics
+  👉 https://github.com/Gokulmanisujith/expense-tracker-web-app 
+
+- **Online MCQ System**  
+  Full-stack quiz application with backend & database  
+  👉 https://github.com/Gokulmanisujith/online-mcq-web-app
+
+- **Cancer Prediction ML Model**  
+  Machine learning project using Python  
+  👉 https://github.com/Gokulmanisujith/CancerPrediction
+
+---
+
+### 📫 Contact
+- GitHub: https://github.com/Gokulmanisujith
