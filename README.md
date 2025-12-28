@@ -2,13 +2,13 @@
 
 Fresher Web Developer & Data Analyst  
 Interested in building full-stack web apps and data-driven solutions.  
-Actively seeking **paid remote internships**.
+Actively seeking **paid remote internships and jobs**.
 
 ---
 
 ### 🛠 Skills
 - Python, SQL
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, React.js
 - Express.js, Node.js
 - Data Analysis, ML basics
 
