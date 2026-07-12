@@ -8,9 +8,9 @@ Actively seeking **paid remote internships and jobs**.
 
 ### 🛠 Skills
 - Python, SQL
-- HTML, CSS, JavaScript, React.js
+- HTML, CSS, JavaScript,EJS
 - Express.js, Node.js
-- Data Analysis, ML basics
+- ML basics
 
 ---
 
